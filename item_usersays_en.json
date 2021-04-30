@@ -1,0 +1,80 @@
+[
+  {
+    "id": "e9f53c4d-b7b9-4cfe-8136-2f59209d3b9c",
+    "data": [
+      {
+        "text": "manjurian",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c4328742-8982-4bfa-a881-20d42c564265",
+    "data": [
+      {
+        "text": "veg pizza",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4b7cf1cd-1e44-45b6-9747-ff9125855f05",
+    "data": [
+      {
+        "text": "icecream",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "fe960b83-b5aa-4054-818e-b4d9bd49a9cc",
+    "data": [
+      {
+        "text": "roti",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2af9908a-f5c8-4135-9d46-dbe3cfa82cf6",
+    "data": [
+      {
+        "text": "dhosa",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "baa4667a-faf7-42c5-8771-81ded59a2d21",
+    "data": [
+      {
+        "text": "idly",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]
